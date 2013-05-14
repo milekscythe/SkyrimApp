@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
     <widget xmlns = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "com.scythe.shihing"
+        id        = "com.scythe.skyrim"
         versionCode="10" 
         version   = "1.7.3">
 <icon src="icon.png" />    
@@ -9,10 +9,10 @@
 <preference name="show-splash-screen-spinner" value="true" />
 <preference name="splash-screen-duration" value="15000" />
 
-<name>Shi'hing Kung Fu</name>
+<name>Skyrim</name>
 
 <description>
-Shi'hing school of Kung Fu Official App.
+A demo app for Skyrim.
 </description>
 
 <author href="https://shihingkungfu.co.uk" email="michael@shihingkungfu.co.uk">
